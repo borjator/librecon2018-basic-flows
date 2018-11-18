@@ -1,0 +1,12 @@
+{
+    "name": "librecon2018-basic-flows",
+    "description": "The basic flows shown in the Librecon2018 talk",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
