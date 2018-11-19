@@ -3,7 +3,8 @@
     "description": "The basic flows shown in the Librecon2018 talk",
     "version": "0.0.1",
     "dependencies": {
-        "node-red-node-openweathermap": "0.2.1"
+        "node-red-node-openweathermap": "0.2.1",
+        "node-red-contrib-xiaomi-ble": "1.2.3"
     },
     "node-red": {
         "settings": {
